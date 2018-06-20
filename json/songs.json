@@ -1,0 +1,257 @@
+{
+	"songs":
+	[
+		{
+			"artist" : "Bob Dylan",
+			"title" : "Knockin' On Heaven's Door",
+			"current" : true,
+			"capo" : 0,
+			"strummingVideo" : "hTJxVg7kSts",
+			"chords" :
+			[
+				{
+					"order" : 4,
+					"order_b" : 1,
+					"name" : "Am7",
+					"strings" : "x02010",
+					"sound" : "Am7_0",
+					"photo" : "photo_Am7_0",
+					"scheme" : "scheme_Am7_0",
+					"progress" : 0,
+					"basicDescription" : "Последний аккорд",
+					"basicDescription_b" : "Первый аккорд",
+					"detailedDescription" : "<b>Am7</b> — просто убери один палец от C",
+					"fingeringDetails" : "Порядок постановки пальцев: 1, 2. 2-й палец не касается 3 струны.",
+					"chordHints" :
+					[
+						{
+							"name" : "Am7ThirdString",
+							"order" : 1,
+							"title" : "Не звучит третья струна",
+							"url" : "am7-fingers-hint.html"
+						}
+					]
+				},
+				{
+					"order" : 3,
+					"order_b" : 2,
+					"name" : "C",
+					"strings" : "x32010",
+					"sound" : "C_0",
+					"photo" : "photo_C_0",
+					"scheme" : "scheme_C_0",
+					"progress" : 0,
+					"basicDescription" : "Третий аккорд",
+					"basicDescription_b" : "Второй аккорд",
+					"detailedDescription" : "<b>C</b> — третий аккорд",
+					"fingeringDetails" : "Порядок постановки пальцев: 1, 2, 3. 2-й палец не касается 3 струны.",
+					"chordHints" :
+					[
+						{
+							"name" : "CMutedStrings",
+							"order" : 1,
+							"title" : "Не звучат некоторые струны",
+							"url" : "c-fingers-hint.html"
+						}
+					]
+				},
+				{
+					"order" : 1,
+					"order_b" : 3,
+					"name" : "D",
+					"strings" : "xx0232",
+					"sound" : "D_0",
+					"photo" : "photo_D_0",
+					"scheme" : "scheme_D_0",
+					"progress" : 0,
+					"basicDescription" : "Первый аккорд",
+					"basicDescription_b" : "Третий аккорд",
+					"detailedDescription" : "<b>D</b> — простой аккорд",
+					"fingeringDetails" : "Порядок постановки пальцев: 1, 3, 2. 3-й палец не касается 1 струны.",
+					"chordHints" :
+					[
+						{
+							"name" : "DFirstString",
+							"order" : 1,
+							"title" : "Не звучит первая струна",
+							"url" : "d-fingers-hint.html"
+						}
+					]
+				},
+				{
+					"order" : 2,
+					"order_b" : 4,
+					"name" : "G",
+					"strings" : "320003",
+					"sound" : "G_0",
+					"photo" : "photo_G_0",
+					"scheme" : "scheme_G_0",
+					"progress" : 0,
+					"basicDescription" : "Второй аккорд",
+					"basicDescription_b" : "Последний аккорд",
+					"detailedDescription" : "<b>G</b> — главный аккорд в этой песне, задаёт её настроение",
+					"fingeringDetails" : "Порядок постановки пальцев: 2, 1, 3. 4-й палец не касается грифа.",
+					"chordHints" :
+					[
+						{
+							"name" : "GFifthString",
+							"order" : 1,
+							"title" : "Не звучит пятая струна",
+							"detailedInfo" : "<p align=left>● Старайся ставить пальцы препендикулярно грифу.<br>● Следи за вторым пальцем: он не должен задевать пятую струну.</p>"
+						}
+					]
+				}
+			],
+			"chordsHints" :
+			[
+				{
+					"name" : "HowAreNumeratedFingers",
+					"title" : "Как нумеруются пальцы?",
+					"url" : "fingers-numbers.html",
+					"order" : 1
+				},
+				{
+					"name" : "HowToReadSchemes",
+					"title" : "Как читать схемы аккордов?",
+					"url" : "howto-read-schemes.html",
+					"order" : 2
+				},
+				{
+					"name" : "BuzzStrings",
+					"title" : "Некоторые струны дребезжат",
+					"detailedInfo" : "<p align=left>● Убедись, что пальцы не задевают соседние струны.<br>● Убедись, что все струны зажаты достаточно сильно. Нужно определить минимально нужную силу нажатия, при которой дребезжание пропадает.<br>● Старайся ставить пальцы ближе к следующему ладу.</p>",
+					"order" : 3
+				},
+				{
+					"name" : "SoundsDifferent",
+					"title" : "Аккорд звучит не как на записи",
+					"detailedInfo" : "<p align=left>● Струны, помеченные крестиками на схеме, не должны звучать: не бей по ним.<br>● Убедись, что звучат все необходимые струны.<br>● Проверь, настроена ли твоя гитара. Для настройки можешь воспользоваться <a href='https://appsto.re/us/LWLCF.i'>бесплатным тюнером</a> из App Store.</p>",
+					"order" : 4
+				},
+				{
+					"name" : "CantGetChord",
+					"title" : "Не получается поставить аккорд",
+					"detailedInfo" : "<p align=left>● Попробуй ставить пальцы ближе к следующему ладу.<br>● Проверь свои ногти: они должны быть коротко подстрижены.</p>",
+					"order" : 5
+				},
+				{
+					"name" : "FingersPain",
+					"title" : "Болят пальцы",
+					"detailedInfo" : "<p align=left>• Через 2-4 недели регулярных занятий на пальцах образуются мозоли, избавляющие от боли.<br>• Крайне важно избежать волдырей и порезов в период наращивания мозолей.<br>• Не нужно давить на струны сильнее, чем необходимо для извлечения чистого звука.<br>• Боль уменьшается через несколько минут после начала занятия.</p>",
+					"order" : 6
+				},
+				{
+					"name" : "AboutPick",
+					"title" : "Как играть без медиатора?",
+					"video" : "play-with-fingers",
+					"order" : 7
+				}
+			],
+			"video" : "WRBsJxsmGtM",
+			"chordsLessonVideo" : "4FjxcEcZf9I",
+			"chordsChain" : "G — D — Am7 — Am7,<br>G — D — C — C",
+			"chordPairsData" :
+			[
+				{
+					"video" : "mU_fMWTbZHc",
+					"sound" : "TODO",
+					"order" : 1,
+					"detailedDescription" : "Описание смены аккордов, пусть будет",
+					"basicDescription" : "Смена G -> D",
+					"firstChordName" : "G",
+					"secondChordName" : "D"
+				},
+				{
+					"video" : "NK4z9Mp4DyI",
+					"sound" : "TODO",
+					"order" : 2,
+					"detailedDescription" : "Описание смены аккордов, пусть будет",
+					"basicDescription" : "Смена D -> Am7",
+					"firstChordName" : "D",
+					"secondChordName" : "Am7"
+				},
+				{
+					"video" : "NR-KcIdysBA",
+					"sound" : "TODO",
+					"order" : 3,
+					"detailedDescription" : "Описание смены аккордов, пусть будет",
+					"basicDescription" : "Смена Am7 -> G",
+					"firstChordName" : "Am7",
+					"secondChordName" : "G"
+				},
+				{
+					"video" : "77bZ9B0y5Xg",
+					"sound" : "TODO",
+					"order" : 4,
+					"detailedDescription" : "Описание смены аккордов, пусть будет",
+					"basicDescription" : "Смена D -> C",
+					"firstChordName" : "D",
+					"secondChordName" : "C"
+				},
+				{
+					"video" : "sp_EYJa07K0",
+					"sound" : "TODO",
+					"order" : 5,
+					"detailedDescription" : "Описание смены аккордов, пусть будет",
+					"basicDescription" : "Смена C -> G",
+					"firstChordName" : "C",
+					"secondChordName" : "G"
+				},
+			],
+			"chordPairsHints" :
+			[
+				{
+					"name" : "PairsStringsBuzz",
+					"title" : "Дребезжат струны",
+					"detailedInfo" : "<p align=left>● Убедись, что пальцы не задевают соседние струны.<br>● Убедись, что все струны зажаты достаточно сильно.</p>",
+					"order" : 1
+				},
+				{
+					"name" : "PairsSoundsDifferent",
+					"title" : "Аккорды звучат не как на записи",
+					"detailedInfo" : "<p align=left>● Струны, помеченные крестиками на схемах, не должны звучать: не бей по ним.<br>● Убедись, что звучат все необходимые струны.<br>● Проверь, настроена ли твоя гитара. Для настройки можешь воспользоваться <a href='https://appsto.re/us/LWLCF.i'>бесплатным тюнером</a> из App Store.</p>",
+					"order" : 2
+				},
+				{
+					"name" : "PairsCantGetChord",
+					"title" : "Не получается поставить аккорд",
+					"detailedInfo" : "<p align=left>● Попробуй ставить пальцы ближе к следующему ладу.<br>● Посмотри на видео, как правильно держать руку.<br>● Проверь свои ногти: они должны быть коротко подстрижены.</p>",
+					"order" : 3
+				},
+				{
+					"name" : "PairsFingersPain",
+					"title" : "Болят пальцы",
+					"detailedInfo" : "<p align=left>● Не нажимай на струны слишком сильно.<br>● Если боль сильная, сделай перерыв на 5 минут, иначе могут быть мозоли.</p>",
+					"order" : 4
+				}
+			],
+			"strumAndChangeHints" :
+			[
+				{
+					"name" : "StrumNChangeStringsBuzz",
+					"title" : "Дребезжат струны",
+					"detailedInfo" : "<p align=left>● Убедись, что пальцы не задевают соседние струны.<br>● Убедись, что все струны зажаты достаточно сильно.<br>● Не бей по струнам слишком сильно.</p>",
+					"order" : 1
+				},
+				{
+					"name" : "StrumNChangeSoundsDifferent",
+					"title" : "Аккорды звучат не как на записи",
+					"detailedInfo" : "<p align=left>● Струны, помеченные крестиками на схемах, не должны звучать: не бей по ним.<br>● Убедись, что звучат все необходимые струны.<br>● Проверь, настроена ли твоя гитара. Для настройки можешь воспользоваться любым бесплатным тюнером из App Store.</p>",
+					"order" : 2
+				},
+				{
+					"name" : "StrumNChangeCantGetChord",
+					"title" : "Не получается поставить аккорд",
+					"detailedInfo" : "<p align=left>● Попробуй ставить пальцы ближе к следующему ладу.<br>● Посмотри на видео, как правильно держать руку.<br>● Проверь свои ногти: они должны быть коротко подстрижены.</p>",
+					"order" : 3
+				},
+				{
+					"name" : "StrumNChangeFingersPain",
+					"title" : "Болят пальцы",
+					"detailedInfo" : "<p align=left>• Через 2-4 недели регулярных занятий на пальцах образуются мозоли, избавляющие от боли.<br>• Крайне важно избежать волдырей и порезов в период наращивания мозолей.<br>• Не нужно давить на струны сильнее, чем необходимо для извлечения чистого звука.<br>• Боль уменьшается через несколько минут после начала занятия.</p>",
+					"order" : 4
+				}
+			]
+		}
+	]
+}
